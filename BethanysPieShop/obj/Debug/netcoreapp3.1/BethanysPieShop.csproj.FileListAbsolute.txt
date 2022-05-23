@@ -22,13 +22,6 @@ C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\Bethan
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
@@ -36,3 +29,4 @@ C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\Bethan
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
 C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
+C:\Users\shivank.yadav\OneDrive - Accenture\Desktop\Project\AspDotNetCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
